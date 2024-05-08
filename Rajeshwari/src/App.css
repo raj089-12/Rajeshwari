@@ -1,0 +1,219 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+     body{
+
+         background-color:rgb(221, 15, 15);
+             color: white;
+    
+
+ }
+
+
+ .rounded-checkbox {
+  width:20px;
+  height:20px;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 1px solid rgb(245, 239, 239);
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+.rounded-checkbox:checked {
+  appearance: auto;
+  clip-path: circle(50% at 50% 50%);
+  background-color:yellow;
+}
+
+ /* #checkmark { */
+  /* position: absolute; */
+  /* top: 0;
+  left: 0; */
+  /* cursor: pointer; */
+  /* height: 20px;
+  width: 20px;
+  background-color: #cb1b1b;
+  border:1px solid  #cb1b1b;
+    border-radius:30px;
+} */
+
+
+
+  /* .rounded-checkbox {
+     width:20px;
+     height:20px;
+       border-radius: 50%;
+       vertical-align: middle;
+       border: 2px solid rgb(247, 237, 237);
+       appearance: none;
+       -webkit-appearance: none;
+       outline: none;
+       cursor: pointer;
+}
+       .rounded-checkbox {
+  appearance: auto;
+  clip-path: circle(50% at 50% 50%);
+  background-color: rgb(220, 101, 32);
+} */
+
+   /* .gun{
+     text-align: center;
+
+} */
+/* .oo{
+  position:relative;
+   color: #ffc107;
+   font-size:50px;
+   font-family:'Times New Roman', Times, serif;
+  
+}
+
+.bb{
+    
+  border-radius:25px;
+}
+
+.jj{
+  margin-top:10%;
+
+}
+
+.zzz{
+  font-size:60px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #ffc107;
+}
+.xxx{
+  background-color:darkblue;
+}
+#qqq{
+  background-color:#052c65;
+  color: white;
+}
+
+.sun{
+  background-color:grey;
+} */
+
+/* #kk{
+  background-color:rgb(255, 165, 0);
+  border-radius:20px;
+ 
+}
+.ll:hover{
+  border:1px solid orange;
+  color: black;
+}
+
+#rrr{
+    border:1px solid #198754;
+    border-radius:20px;
+    color: #198754;
+}
+
+.aaa:hover{
+  background-color:rgb(255, 165, 0);
+  color: white;
+}
+#nn{
+  background-color:rgb(255, 165, 0);
+}
+.zz:hover{
+     background-color:#198754;
+}
+.pp{
+   background-color: #198754;
+}
+
+#tum{
+  background-color: #198754;
+  padding-bottom:5%;
+}
+.zip{
+  font-family: 'Times New Roman', Times, serif;
+  font-size:70px;
+  padding-top:10%;
+  padding-left:20%;
+}
+.bat{
+  font-family: 'Times New Roman', Times, serif;
+  font-size:70px;
+  padding-left:20%;
+}
+#kty{
+  background-color: #e7974b;
+  margin-left: 20%;
+  padding-right:5%;
+  padding-left: 5%;
+}
+.nap:hover{
+   background-color:#198754;
+   border-radius: 30px;
+}
+#asp{
+  padding-top:20%;
+  border-radius:30px;
+} */
+
+
+
+
+/* #wart{
+  background-image:url();
+  width: 100%;
+  height:300px;
+  
+  
+} */
+/* #wipe{
+  background-color:rgb(2,3,129);
+  width:20%;  
+}
+.sun:hover{
+  transform:scale(1.1);
+} */
+ 
+
+
+
+
+
+
